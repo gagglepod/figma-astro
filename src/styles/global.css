@@ -422,6 +422,7 @@ header {
 }
 
 .indicator {
+  aspect-ratio: 1/1;
   background: transparent;
   border: 0.15em solid hsl(var(--text-alt));
   border-radius: 50%;
